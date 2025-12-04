@@ -28,6 +28,9 @@ this repo is for practicing. please fork this repo to you github account. in the
 * از تغییراتی که در گیتهاب هم میدید حتما عکس بگیرید و همرو در قالب یک پی دی اف یا zip  حتما حتما به ترتیب بزارید 
 
 * هر برنچی که درست میکنید محتویات فایل اصلی رو پاک کنید اول بعد کامیت هارو بنویسید توش
+
+* کلیت تمرین حول برنچینگ و resolve conlict و collaboration هستش و متن کامیت ها و متن فایل اگر به مشکلی بخوره اهمیت چندانی نداره ولی ترتیب ها رعایت بشه و شماره کامیت ها برای هر برنچ رعایت بشه حتما
+* همچنین اگر در resolve conflict به مشکلی خوردید و نمیدنستید کدوم تغییر رو ادغام کنید برنچ اصلی تر اولیت قرار بدید
 ---
 
 # مراحل انجام تمرین
@@ -41,6 +44,7 @@ this repo is for practicing. please fork this repo to you github account. in the
 
 1. در پروژه فقط یک فایل متنی وجود دارد و نیازی به اضافه کردن فایل جدید نیست و فقط با یک فایل کار خواهید کرد در این تمرین برای سادگی تمرین
 2. در این تمرین برای انجام هر کامیت و تغییرات فقط بر روی فایل اصلی به این صورت عمل میشود
+
 3.  `<number of the commit> from <your name or github user name>:<base branch name> /<feature branch name>`
 
   تمام تغییرات بر روی file.txt اضافه خواهد شد 
@@ -55,7 +59,8 @@ commit message = second commit from username:main
 FIRST COMMIT from bradiya-basafa:main
 second commit from your-username:main
 ```
-3. شما در این مرحله سه کامیت روی برنچ مین خواهید زد تغییرات را پوش کرده
+
+4. شما در این مرحله سه کامیت روی برنچ مین خواهید زد تغییرات را پوش کرده
 
 ##  devlop branch
 1. در این مرحله از بعد از سه کامیت روی main برنچ develop را ساخته ودو کامیت خواهید زد(first and second) و سپس پوش کرده 
@@ -110,5 +115,7 @@ second commit from your-username:main
 
 
 ![image](image2.png) 
+
+
 
 
